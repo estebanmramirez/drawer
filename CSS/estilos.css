@@ -75,6 +75,7 @@ body{
 
 .figure__share{
     position: relative;
+    top: 10px;
     left: 250px;
     height: 30px;
     width: 30px;
